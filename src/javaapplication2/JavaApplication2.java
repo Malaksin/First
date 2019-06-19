@@ -6,7 +6,7 @@
 package javaapplication2;
 
 /**
- *
+ *how are you
  * @author malaksin
  */
 public class JavaApplication2 {
